@@ -1,4 +1,4 @@
-# Sales-Dashboard---Power-Bi
+Time Series Analysis for Business Insights
 Overview
 
 This repository contains a Power BI dashboard and an associated dataset for analyzing sales performance. The dashboard provides insights into key metrics such as revenue, profit, and regional performance, enabling data-driven decision-making.
